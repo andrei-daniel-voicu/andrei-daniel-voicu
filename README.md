@@ -1,8 +1,6 @@
 <h3 align="center">A passionate Computer Science student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrei-daniel-voicu&label=Profile%20views&color=ff8000&style=flat" alt="andrei-daniel-voicu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrei-daniel-voicu" alt="andrei-daniel-voicu" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrei-daniel-voicu&label=Profile%20views&color=ff8000&style=plastic" alt="andrei-daniel-voicu" /> </p>
 
 - 🌱 I’m currently learning **Python, C++ STL, Markdown**
 
@@ -18,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrei-daniel-voicu&show_icons=true&locale=en" alt="andrei-daniel-voicu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrei-daniel-voicu&" alt="andrei-daniel-voicu" /></p>
+
