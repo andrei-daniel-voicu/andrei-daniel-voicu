@@ -7,6 +7,8 @@
 
 ### Profile Stats:  
 <img src="https://komarev.com/ghpvc/?username=andrei-daniel-voicu&label=Profile%20views&color=ff8000&style=plastic" alt="andrei-daniel-voicu" />  
+
+### Connect with me:  
 <a href="https://www.linkedin.com/in/andrei-daniel-voicu-57490b20a/">
   <img alt="Andrei's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=plastic&logo=Linkedin&logoColor=ff8000" />
 </a>
