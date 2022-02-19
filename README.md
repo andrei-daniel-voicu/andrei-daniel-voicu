@@ -17,5 +17,9 @@
 </a>
 <a href="https://www.hackerrank.com/andrei_voicu133">
   <img alt="Andrei's HackerRank" src="https://img.shields.io/badge/-HackerRank-1A4730?style=plastic&logo=hackerrank&logoColor=ff8000" />
-</a>  
+</a>
+</a>
+<a href="https://leetcode.com/andrei-daniel-voicu/">
+  <img alt="Andrei's LeetCode" src="https://img.shields.io/badge/-LeetCode-1A4730?style=plastic&logo=leetcode&logoColor=ff8000" />
+</a>
 
