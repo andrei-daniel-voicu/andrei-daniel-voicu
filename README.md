@@ -22,4 +22,12 @@
 <a href="https://leetcode.com/andrei-daniel-voicu/">
   <img alt="Andrei's LeetCode" src="https://img.shields.io/badge/-LeetCode-1A4730?style=plastic&logo=leetcode&logoColor=ff8000" />
 </a>
-
+<a href="https://www.codechef.com/users/andrei_daniel">
+  <img alt="Andrei's CodeChef" src="https://img.shields.io/badge/-CodeChef-1A4730?style=plastic&logo=codechef&logoColor=ff8000" />
+</a>
+<a href="https://www.hackerearth.com/@andrei.voicu133">
+  <img alt="Andrei's HackerEarth" src="https://img.shields.io/badge/-HackerEarth-1A4730?style=plastic&logo=hackerearth&logoColor=ff8000" />
+</a>
+<a href="https://coderbyte.com/profile/andreidaniel">
+  <img alt="Andrei's CoderByte" src="https://img.shields.io/badge/-CoderByte-1A4730?style=plastic&logo=byte&logoColor=ff8000" />
+</a>
